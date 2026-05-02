@@ -328,9 +328,7 @@ eternal-echo/
   <br/>
   <strong>Built with ❤️ for families who never want to forget.</strong>
   <br/><br/>
-  <em>"Beta, nikah sirf khushi ka naam nahi, zimmedari ka naam hai."</em>
-  <br/>
-  <sub>— Dada Jaan, preserved forever in Eternal Echo</sub>
+ 
   <br/><br/>
   <a href="https://github.com/DevWasim/eternal-echo/stargazers">⭐ Star this repo</a> · 
   <a href="https://github.com/DevWasim/eternal-echo/issues">🐛 Report Bug</a> · 
